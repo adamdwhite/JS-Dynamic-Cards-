@@ -1,0 +1,29 @@
+body {
+    font-family: 'Reem Kufi';
+    font-size: 1em;
+}
+
+input {
+    font-family: 'Reem Kufi';
+    font-size: 1em;
+    width: 25em;
+}
+
+button {
+    font-family: 'Reem Kufi';
+    font-size: 1em;
+    background-color: lightcoral;
+}
+
+p {
+    font-family: 'Reem Kufi';
+    font-size: 2em;
+    /* border: 3px lightcoral;
+    border-radius: 3px; */
+}
+
+eachCard {
+    size: 3px;
+    color: lightcoral;
+    padding: 5px;
+}
